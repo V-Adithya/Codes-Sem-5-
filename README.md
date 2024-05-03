@@ -29,4 +29,3 @@ Feel free to explore the contents of each folder to gain a deeper understanding 
 - **Exploration**: Browse through the folders to discover code samples and projects related to specific topics or assignments.
 - **Learning**: Use the code samples and assignments to reinforce your understanding of programming concepts covered in your coursework.
 - **Teaching**: Educators can use the materials in this repository as teaching aids or reference materials for programming courses.
-- **Contribution**: If you have additional code samples or projects from your own coursework that you'd like to contribute, please see the [Contributing](#contributing) section below.
